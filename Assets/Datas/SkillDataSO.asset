@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b414f94d7bc3a944aa859487e2e6b2d5, type: 3}
+  m_Name: SkillDataSO
+  m_EditorClassIdentifier: 
+  skillDatasList:
+  - skillNo: 0
+    skillName: Miss
+    attackPow: 0
+    maxSkillCount: 1
+  - skillNo: 1
+    skillName: "\u30D1\u30F3\u30C1"
+    attackPow: 1
+    maxSkillCount: 2
+  - skillNo: 2
+    skillName: "\u30AD\u30C3\u30AF"
+    attackPow: 2
+    maxSkillCount: 3
+  - skillNo: 3
+    skillName: "\u30A2\u30C3\u30D1\u30FC"
+    attackPow: 3
+    maxSkillCount: 4
+  - skillNo: 4
+    skillName: "\u307F\u305E\u304A\u3061\u7A81\u304D"
+    attackPow: 4
+    maxSkillCount: 5
+  - skillNo: 5
+    skillName: "\u304B\u304B\u3068\u843D\u3068\u3057"
+    attackPow: 5
+    maxSkillCount: 6
